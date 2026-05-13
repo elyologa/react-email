@@ -54,3 +54,6 @@ export type { ImgProps } from './components/img';
 export type { MarkdownProps } from './components/markdown';
 export type { CodeBlockProps } from './components/code-block';
 export type { CodeInlineProps } from './components/code-inline';
+
+// TODO: The Image/Img duplication is a bit confusing. Consider deprecating
+// Image in a future version and standardising on Img to match HTML semantics.
