@@ -46,6 +46,8 @@ export type { HeadingProps } from './components/heading';
 export type { TextProps } from './components/text';
 export type { LinkProps } from './components/link';
 export type { ButtonProps } from './components/button';
+// Note: ImageProps and ImgProps both exist — Image is an alias for Img with
+// a more descriptive name. Prefer Img for standard usage per HTML conventions.
 export type { ImageProps } from './components/image';
 export type { HrProps } from './components/hr';
 export type { ImgProps } from './components/img';
