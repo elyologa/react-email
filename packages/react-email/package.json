@@ -60,5 +60,6 @@
     "url": "https://github.com/resend/react-email.git",
     "directory": "packages/react-email"
   },
-  "homepage": "https://react.email"
+  "homepage": "https://react.email",
+  "_note": "Personal fork for learning purposes. Upstream: https://github.com/resend/react-email"
 }
